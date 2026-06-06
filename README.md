@@ -54,5 +54,5 @@ I will continue updating this repository as I progress through my SQL learning j
 
 Happy Querying! 🎉
 
-AUTHOR 
+AUTHOR <br>
 ZAKI SHAH
