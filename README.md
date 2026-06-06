@@ -1,66 +1,58 @@
-# 📊 SQL Practice Repository
+# 🗄️ SQL Learning Journey
 
-> 🚀 A structured collection of SQL queries and problem-solving exercises designed to build strong database fundamentals and prepare for technical interviews.
+Welcome to my SQL Learning Journey! 🚀
 
----
+This repository documents my progress as I learn SQL from the basics to advanced concepts. Here, I will regularly upload notes, practice queries, exercises, mini-projects, and challenges to strengthen my database skills.
 
-## 📌 About This Repository
-This repository contains my SQL practice journey, where I solve problems ranging from basic queries to advanced database concepts.  
-It focuses on improving query writing skills, logical thinking, and real-world data handling.
+## 🎯 Goals
 
----
+- Learn SQL fundamentals
+- Master database querying
+- Understand database design concepts
+- Practice real-world SQL problems
+- Build confidence in data analysis using SQL
 
----
+## 📚 Topics Covered
 
-## 🚀 Topics Covered
+### Beginner Level
+- Introduction to Databases
+- SQL Syntax
+- SELECT Statement
+- WHERE Clause
+- ORDER BY
+- LIMIT
+- DISTINCT
 
-### 🔹 Basics
-- SELECT, WHERE, ORDER BY  
-- LIMIT, DISTINCT  
+### Intermediate Level
+- Aggregate Functions
+  - COUNT()
+  - SUM()
+  - AVG()
+  - MIN()
+  - MAX()
+- GROUP BY
+- HAVING
+- Joins
+  - INNER JOIN
+  - LEFT JOIN
+  - RIGHT JOIN
+  - FULL JOIN
 
-### 🔹 Intermediate
-- Joins (INNER, LEFT, RIGHT, FULL)  
-- GROUP BY & HAVING  
-- Aggregate Functions  
+### Advanced Level
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- Views
+- Stored Procedures
+- Triggers
+- Indexing
+- Query Optimization
 
-### 🔹 Advanced
-- Subqueries  
-- Window Functions  
-- CTEs (Common Table Expressions)  
-- CASE Statements  
+## ⭐ Stay Tuned
 
-### 🔹 Practice Sets
-- Real-world Scenarios  
-- HackerRank / LeetCode Problems  
+I will continue updating this repository as I progress through my SQL learning journey.
 
----
+Happy Querying! 🎉
 
-## 📂 Folder Structure
-```bash
-SQL-PRACTICE/
-│
-├── Basic/
-├── Intermediate/
-├── Advanced/
-├── Practice_Questions/
-└── README.md
-```
----
-
-## 🛠️ Tool
-- MySQL  
-
----
-
-## 📈 Goals
-- Strengthen SQL fundamentals  
-- Prepare for Data Analyst
-
----
-
----
-
-## 👩‍💻 Author
-**Zaki Shah Saifi**  
-Aspiring Data Scientist  
-
+AUTHOR 
+ZAKI SHAH
