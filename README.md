@@ -52,7 +52,6 @@ This repository documents my progress as I learn SQL from the basics to advanced
 
 I will continue updating this repository as I progress through my SQL learning journey.
 
-Happy Querying! 🎉
 
 AUTHOR <br>
 ZAKI SHAH
